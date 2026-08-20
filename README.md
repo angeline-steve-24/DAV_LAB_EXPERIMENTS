@@ -8,17 +8,17 @@ The experiments focus on **Python-based data manipulation, statistical analysis,
 
 ## 🛠️ Technologies & Libraries
 
-* 🐍 Python
-* 📓 Jupyter Notebook
-* 🔢 NumPy
-* 🐼 Pandas
-* 📈 Matplotlib
-* 🎨 Seaborn
-* 🧪 SciPy
-* 📊 Statsmodels
-* 📉 Plotly
-* 🌐 Bokeh
-* 🤖 Scikit-learn
+* Python
+* Jupyter Notebook
+* NumPy
+* Pandas
+* Matplotlib
+* Seaborn
+* SciPy
+* Statsmodels
+* Plotly
+* Bokeh
+* Scikit-learn
 
 ---
 
